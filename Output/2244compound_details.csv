@@ -1,0 +1,293 @@
+CID,Compound Name,IUPAC Name,Molecular Formula,Molecular Weight,Canonical SMILES,Isomeric SMILES,InChI,InChIKey,XLogP,TPSA,Exact Mass,Complexity,Rotatable Bonds,H-Bond Donors,H-Bond Acceptors,Charge,Heavy Atom Count,Defined Atom Stereo Count,Undefined Atom Stereo Count,Defined Bond Stereo Count,Undefined Bond Stereo Count,Covalent Unit Count,Coordinate Type,Synonyms,ChEMBL ID,Chemical Vendors,Protein 3D Structures,BioAssay,Patent,Depositor-Supplied Patent,Literature
+2244,Aspirin,2-acetyloxybenzoic acid,C9H8O4,180.16,,,"InChI=1S/C9H8O4/c1-6(10)13-8-5-3-2-4-7(8)9(11)12/h2-5H,1H3,(H,11,12)",BSYNRYMUTXBXSQ-UHFFFAOYSA-N,1.2,63.6,180.04225873,212,3,1,4,0,13,0,0,0,0,1,2d,"aspirin; ACETYLSALICYLIC ACID; 50-78-2; 2-(Acetyloxy)benzoic acid; Acetosal; Acenterine; Acetophen; Acetosalin; Aspirdrops; Salcetogen; Aceticyl; Acetonyl; Acetylin; Acidum acetylsalicylicum; Benaspir; Empirin; Endydol; Measurin; Rhodine; Saletin; Enterosarine; Acetisal; Acetylsal; Aspirine; Bialpirinia; Entericin; Enterophen; Salacetin; Solpyron; Acesal; Acisal; Asagran; Asteric; Caprin; Duramax; Extren; Globoid; Helicon; Idragin; Rhonal; Aspro; Novid; Yasta; Benzoic acid, 2-(acetyloxy)-; Acimetten; Delgesic; Entrophen; Acetilum acidulatum; Acetilsalicilico; Dolean pH 8; Contrheuma retard; XAXA; Acido acetilsalicilico; Acide acetylsalicylique; Bayer; ASA; 8-hour Bayer; Asatard; Durlaza; Bayer Plus; Rheumin tabletten; Acetylsalicylsaeure; Azetylsalizylsaeure; SP 189; AC 5230; Acetylsalicyclic acid; Acetylsalicylicum acidum; Aspropharm; Cardioaspirin; CHEBI:15365; benzoic acid, 2-acetoxy-; ECM; NSC-27223; acide 2-(acetyloxy)benzoique; Bayer Extra Strength Aspirin for Migraine Pain; NSC-406186; R16CO5Y76E; DTXSID5020108; BAY1019036; DTXCID50108; AXOTAL COMPONENT ASPIRIN; AZDONE COMPONENT ASPIRIN; CODOXY COMPONENT ASPIRIN; AGGRENOX COMPONENT ASPIRIN; DUOCOVER COMPONENT ASPIRIN; EXCEDRIN COMPONENT ASPIRIN; FIORINAL COMPONENT ASPIRIN; NORGESIC COMPONENT ASPIRIN; PERCODAN COMPONENT ASPIRIN; Q-GESIC COMPONENT ASPIRIN; ROXIPRIN COMPONENT ASPIRIN; VICOPRIN COMPONENT ASPIRIN; YOSPRALA COMPONENT ASPIRIN; DUOPLAVIN COMPONENT ASPIRIN; EQUAGESIC COMPONENT ASPIRIN; INVAGESIC COMPONENT ASPIRIN; LANORINAL COMPONENT ASPIRIN; MICRAININ COMPONENT ASPIRIN; ROBAXISAL COMPONENT ASPIRIN; ORPHENGESIC COMPONENT ASPIRIN; SYNALGOS-DC COMPONENT ASPIRIN; NSC406186; MEPRO-ASPIRIN COMPONENT ASPIRIN; PERCODAN-DEMI COMPONENT ASPIRIN; PRAVIGARD PAC COMPONENT ASPIRIN; SOMA COMPOUND COMPONENT ASPIRIN; DARVON COMPOUND COMPONENT ASPIRIN; INVAGESIC FORTE COMPONENT ASPIRIN; TALWIN COMPOUND COMPONENT ASPIRIN; ORPHENGESIC FORTE COMPONENT ASPIRIN; ASPIRIN (MART.); ASPIRIN [MART.]; ASPIRIN (USP-RS); ASPIRIN [USP-RS]; ASPIRIN (USP MONOGRAPH); ASPIRIN [USP MONOGRAPH]; vetality; Angettes; Aspirina; AspirinChewable; Cardiprin; Claragine; Encaprin; Fasprin; Medpurine; careone aspirin; Aramark Aspirin; Aspirin Powder; Aspirin Regimen; AspirinEC; Canine Aspirin; Coated Aspirin; Enteric Aspirin; Equate Aspirin; Leader Aspirin; Rapidol Aspirin; Rexall Aspirin; Sunmark Aspirin; Topcare Aspirin; Aspirin Bolus; Aspirin Nsaid; Bayer Aspirin; Rugby Aspirin; Aspi-cor; Buffered Aspirin; Chewable Aspirin; Equaline Aspirin; Geritrex Aspirin; McKesson Aspirin; AspirinNSAID; Azetylsalizylsaure; Aspirin EC; aspirinpain relief; Childrens Aspirin; Unishield Aspirin; ASA Empirin; Aspirin 5 Grain; Care One Aspirin; Bufferin Arthritis; ULINE Aspirin; CAREALL Aspirin; MooreBrand Aspirin; Aspica (Aspirin); Aspirin 81mg; Dg Health Aspirin; Medi-first Aspirin; Basic Care Aspirin; caring mill aspirin; Dr Pausins Aspirin; Good Sense Aspirin; rugby adult aspirin; Aspirin 325mg; Aspirin 81; Aspirin 81 mg; Up and Up Aspirin; Health Mart Aspirin; MBR Aspirin Powder; Pain Relief Aspirin; Solves-aspirinCherry; Aspirin 325 mg; Aspirin Pain reliver; Tri-buffered Aspirin; Aspirin 325; Aspirin 50 CT; AspirinEnteric Coated; ASPRISOL; Crane Safety Aspirin; equate aspirinchewable; Health Sense Ecpirin; Henry Schein Aspirin; sunmark adult aspirin; Travel Savvy Aspirin; VAZALORE; ASPIRINLow Strength; Adult Aspirin Regimen; Aspirin Bolus-240; AspirinDelayed Release; Bayer Aspirin Regimen; Bayer Genuine Aspirin; Direct Safety Aspirin; Moore Medical Aspirin; Rapid Comfort Aspirin; Safety Coated Aspirin; signature care aspirin; Aspirinregular strength; ASSURED ASPIRIN; Adult Chewable Aspirin; Biovanta Double Action; Enteric Coated Aspirin; Extra Strength Aspirin; ADVANCED ASPIRIN; VALUMEDS ASPIRIN; Aspirin tablet 325mg; Chewable Aspirin 81mg; Dye-Free Aspirin 81; Family Wellness Aspirin; Physicians Care Aspirin; RHODINE NC RP; Signature Care Aspririn; First Aid Only Aspirin; Acide acetyl salicylique; Medique at Home Aspirin; Aspirin Regular Strength; Ecotrin Regular Strength; Medi-First Plus Aspirin; Medique Products Aspirin; Regular Strength Aspirin; Bayer PlusExtra Strength; Circle K Aspirin 325; Pharbest Aspirin 325mg; health mart adult aspirin; ASPIRIN480; BAYER 500 mg; Chronic Pain/Fever Relief; CARDIASPIRIN PROTECT; NobleAid PAIN RELIEVER; Berkley and Jensen Aspirin; ASPIRINEXTRA STRENGTH; Up and Up Chewable Aspirin; ASPIRIN BOLUS-480; AspirinEnteric Safety Coated; AspirinEnteric Safety-Coated; Regular Strength Aspirin EC; Plus PharmaNSAID 325 mg; 365 Everyday Value Aspirin; Alka-Seltzer Original Flavor; Aspirin 81mg Enteric coated; AspirinLow Strength, Enteric; Critical Care Aspirin To Go; ASPIRIN 325 MG EC; BAYER Aspirin Extra Strength; Lil Drug Store Aspirin 325; Aspirin 81 mg Enteric Coated; Bayer Aspirin Regimen Chewable; Bayer Chewable-Aspirin Regimen; Good Neighbor Pharmacy Aspirin; Rapidol Aspirin Display 2x25; Buffered AspirinFor Small Dogs; MBR Aspirin Bolus 240 Grains; Pharbest Regular Strength Aspirin; Value PharmaAspirin Pain Reliever; First Aid Direct Chewable Aspirin; ASPIRIN Analgesic and Antipyretic; ASPIRIN COMPONENT OF AXOTAL; ASPIRIN COMPONENT OF AZDONE; ASPIRIN COMPONENT OF CODOXY; Bayer Aspirin Regimenenteric coated; ASPIRIN COMPONENT OF AGGRENOX; ASPIRIN COMPONENT OF DUOCOVER; ASPIRIN COMPONENT OF EXCEDRIN; ASPIRIN COMPONENT OF FIORINAL; ASPIRIN COMPONENT OF NORGESIC; ASPIRIN COMPONENT OF PERCODAN; ASPIRIN COMPONENT OF Q-GESIC; ASPIRIN COMPONENT OF ROXIPRIN; ASPIRIN COMPONENT OF VICOPRIN; ASPIRIN COMPONENT OF YOSPRALA; BAYER AspirinExtra Strength Caplets; Buffered aspirin, effervescent tablet; ASPIRIN COMPONENT OF DUOPLAVIN; ASPIRIN COMPONENT OF EQUAGESIC; ASPIRIN COMPONENT OF INVAGESIC; ASPIRIN COMPONENT OF LANORINAL; ASPIRIN COMPONENT OF MICRAININ; ASPIRIN COMPONENT OF ROBAXISAL; Bufferin Regular Strength Pain Relief; enteric coated aspirinRegular Strength; Aspirin Enteric Coated Tablets 81 mg; Aspirin 81 mg Delayed Release Tablets; ASPIRIN COMPONENT OF ORPHENGESIC; Value PharmaPain RelieverExtra Strength; ASPIRIN COMPONENT OF SYNALGOS-DC; AspirinEnteric Coated, Regular Strength; Regular Strength Enteric Coated Aspirin; Aspirin Delayed Release Tablets, 81 mg; Buffered AspirinFor Medium to Large Dogs; Coraspirin 81 mg Enteric Coasted Tablet; ASPIRIN COMPONENT OF MEPRO-ASPIRIN; ASPIRIN COMPONENT OF PERCODAN-DEMI; ASPIRIN COMPONENT OF PRAVIGARD PAC; ASPIRIN COMPONENT OF SOMA COMPOUND; Aspirin 81mg Enteric coatedDelayed Release; Cardioaspirin 81 mg Enteric Coated Tablet; ASPIRIN COMPONENT OF DARVON COMPOUND; ASPIRIN COMPONENT OF INVAGESIC FORTE; ASPIRIN COMPONENT OF TALWIN COMPOUND; ASPIRIN COMPONENT OF ORPHENGESIC FORTE; Safety Coated Aspirin 325 mg Regular Strength; Health Mart Regular Strength Enteric Coated Aspirin; Natural Aspirin plus Tart Cherry Dietary Supplement; Aspirin 81mg Enteric coatedLow Strength Aspirin Regimen; Natural Aspirin plus Immune Supporting Dietary Supplement; Natural Aspirin plus Lemon and Honey Dietary Supplement; 200-064-1; 2-Acetoxybenzoic acid; O-Acetylsalicylic acid; o-Acetoxybenzoic acid; Acylpyrin; Easprin; Ecotrin; Salicylic acid acetate; Polopiryna; Colfarit; o-Carboxyphenyl acetate; Enterosarein; Micristin; Pharmacin; Premaspin; Temperal; Ecolen; Rheumintabletten; Solprin acid; 2-acetyloxybenzoic acid; Bialpirina; Claradin; Clariprin; Globentyl; Neuronika; Cemirit; Decaten; Levius; Pirseal; Solfrin; Adiro; Aspec; Acetosalic acid; Triple-sal; Spira-Dine; ZORprin; Bi-prin; Persistin; 2-Carboxyphenyl acetate; A.S.A. empirin; Endosprin; Kapsazal; Acetylsalicylsaure; Solprin; acetyl salicylic acid; Tasprin; Nu-seals aspirin; Salicylic acid, acetate; Acido O-acetil-benzoico; Kyselina acetylsalicylova; 2-Acetoxybenzenecarboxylic acid; St. Joseph Aspirin for Adults; A.S.A.; St. Joseph; Kyselina 2-acetoxybenzoova; Acetard; acetyl salicylate; S-211; Aspirin (Standard); 2-(acetyloxy)benzoate; MFCD00002430; o-(Acetyloxy)benzoic acid; Acetylsalicylic acid (who-ip); Aspirin form II; component of Midol; NSC27223; component of Synirin; component of Zactirin; component of Coricidin; component of Persistin; component of Robaxisal; o-Acetoxybenzoate; NCGC00015067-04; Acetysal; ACIDUM ACETYLSALICYLICUM (WHO-IP); Istopirin; Magnecyl; Medisyl; Polopirin; Ronal; Bayer Buffered; Aspro Clear; component of Ascodeen-30; WLN: QVR BOV1; aspirin (acetylsalicylic acid); Aspirina 03; Acetylsalycilic acid; component of Darvon with A.S.A; Bayer Aspirin 8 Hour; Asaphen; Aspalon; Asprin; Bayer Children's Aspirin; Nu-seals; component of St. Joseph Cold Tablets; Aspir-Mox; Durlaza ER; Acetylsalicylsaure [German]; CAS-50-78-2; Acetoxybenzoic acid; Acetysalicylic acid; AIN; SMR000059138; Ascoden-30; CCRIS 3243; HSDB 652; Acide acetylsalicylique [French]; Acido acetilsalicilico [Italian]; Kyselina acetylsalicylova [Czech]; Acido O-acetil-benzoico [Italian]; SR-01000075668; Kyselina 2-acetoxybenzoova [Czech]; EINECS 200-064-1; NSC 27223; Aspirin [USP:BAN:JAN]; Bayer Enteric 325 mg Regular Strength; BRN 0779271; Bay E4465; UNII-R16CO5Y76E; Bayer Enteric 81 mg Adult Low Strength; Cardioaspirina; Acetyonyl; Asacard; Ascolong; Bayer Enteric 500 mg Arthritis Strength; Colsprin; Miniasal; Salospir; Acesan; Toldex; AI3-02956; 1oxr; 2-Acetoxybenzoate; Aspalon (JAN); Durlaza (TN); Easprin (TN); acetyl-salicylic acid; acetyl salicyclic acid; o-(Acetyloxy)benzoate; Percodan (Salt/Mix); Ascriptin (Salt/Mix); Micrainin (Salt/Mix); 2-acetoxy benzoic acid; Acetylsalicylic acidASA; Spectrum_001245; 2-Acetylsalicyclic acid; ASPIRIN [VANDF]; ASPIRIN [HSDB]; Salicylic acid, acetyl-; ASPIRIN [JAN]; ASPIRIN [MI]; CHEMBL25; Spectrum2_001899; Spectrum3_001295; Spectrum4_000099; Spectrum5_000740; Aspirin (JP18/USP); Lopac-A-5376; Salycylacetylsalicylic acid; Epitope ID:114151; Percodan Demi (Salt/Mix); Soma Compound (Salt/Mix); EC 200-064-1; PL2200 component aspirin; Acetylsalicylic acid, 99%; cid_2244; Pravigard PAC (Salt/Mix); SCHEMBL1353; 2-(Acetyloxy)-benzoic acid; Aspirin-PC component aspirin; Bay-e-4465; Lopac0_000038; KBioGR_000398; KBioGR_002271; KBioSS_001725; KBioSS_002272; 4-10-00-00138 (Beilstein Handbook Reference); MLS001055329; MLS001066332; MLS001336045; MLS001336046; ASPIRIN [ORANGE BOOK]; BIDD:GT0118; DivK1c_000555; SPECTRUM1500130; PA-32540 component aspirin; SPBio_001838; Acetylsalicylic acid, >=99%; GTPL4139; SCHEMBL1369714; SCHEMBL6200251; O-Acetylsalicylic acid; Aspirin; Acetylsalicylic acid-carboxy-14c; BDBM22360; HMS501L17; KBio1_000555; KBio2_001725; KBio2_002271; KBio2_004293; KBio2_004839; KBio2_006861; KBio2_007407; KBio3_002149; KBio3_002751; Empirin with Codeine (Salt/Mix); MSK9019; Acetylsalicylic acid, >=99.0%; cMAP_000006; component of Zactirin (Salt/Mix); NINDS_000555; HMS1920E13; HMS2090G03; HMS2091K13; HMS2233L18; HMS3260G17; HMS3372N15; HMS3656N14; HMS3715P19; HMS3866L03; HMS3885G03; HMS5081M04; HMS6018L04; Pharmakon1600-01500130; BCP21790; STR01551; ACETYLSALICYLIC ACID; ASPIRIN; Tox21_110076; Tox21_202117; Tox21_300146; Tox21_500038; CCG-39490; HY-14654R; NSC755899; s3017; SBB015069; STL137674; ACETYLSALICYLIC ACID [WHO-DD]; AKOS000118884; component of Ascodeen-30 (Salt/Mix); Tox21_110076_1; ACETYLSALICYLIC ACID [EMA EPAR]; ACETYLSALICYLICUM ACIDUM [HPUS]; CS-2001; DB00945; FA17179; LP00038; NSC-755899; PL-2200; SDCCGSBI-0050027.P005; BAY-1019036; IDI1_000555; ACETYLSALICYLIC ACID [GREEN BOOK]; Acetylsalicylic acid, analytical standard; NCGC00015067-01; NCGC00015067-02; NCGC00015067-03; NCGC00015067-05; NCGC00015067-06; NCGC00015067-07; NCGC00015067-08; NCGC00015067-09; NCGC00015067-10; NCGC00015067-11; NCGC00015067-12; NCGC00015067-13; NCGC00015067-14; NCGC00015067-24; NCGC00015067-26; NCGC00090977-01; NCGC00090977-02; NCGC00090977-03; NCGC00090977-04; NCGC00090977-05; NCGC00090977-06; NCGC00090977-07; NCGC00254034-01; NCGC00259666-01; NCGC00260723-01; AC-37704; Aspirin, meets USP testing specifications; DA-61272; HY-14654; NCI60_002222; ST075414; ACETYLSALICYLIC ACID [EP MONOGRAPH]; SBI-0050027.P004; DS-017139; UNM-0000306102; A2262; component of Darvon with A.S.A (Salt/Mix); CS-0694916; EU-0100038; NS00000658; SW199665-2; CARISOPRODOL COMPOUND COMPONENT ASPIRIN; EN300-19606; A 5376; Acetylsalicylic Acid 1.0 mg/ml in Acetonitrile; C01405; D00109; E80792; Q18216; AB00051918-08; AB00051918_09; AB00051918_10; Arthritis Pain Formula Maximum Strength (Salt/Mix); SR-01000075668-1; SR-01000075668-4; SR-01000075668-6; BRD-K11433652-001-16-2; BRD-K11433652-001-17-0; BRD-K11433652-001-18-8; Acetylsalicylic acid, Vetec(TM) reagent grade, >=99%; Aspirin, British Pharmacopoeia (BP) Reference Standard; CLOPIDOGREL/ACETYLSALICYLIC ACID COMPONENT ASPIRIN; F2191-0068; Z104474430; Aspirin, United States Pharmacopeia (USP) Reference Standard; D41527A7-A9EB-472D-A7FC-312821130549; Acetylsalicylic acid, European Pharmacopoeia (EP) Reference Standard; Acetylsalicylic acid, BioReagent, plant cell culture tested, >=99.0%; 2-Acetoxybenzoic acid;2-(Acetyloxy)benzoic acid;Acylpyrin;Aspirin;Aspirin granular; Acetylsalicylic acid for peak identification, European Pharmacopoeia (EP) Reference Standard; InChI=1/C9H8O4/c1-6(10)13-8-5-3-2-4-7(8)9(11)12/h2-5H,1H3,(H,11,12; 11126-35-5; Aspirin (Acetyl Salicylic Acid), Pharmaceutical Secondary Standard; Certified Reference Material",CHEMBL25,"10X CHEM; A2B Chem; AA BLOCKS; AKos Consulting & Solutions; Aaron Chemicals LLC; AbMole Bioscience; AbaChemScene; AbovChem LLC; Accel Scientific; Achemtek; Acmec Biochemical; Alfa Chemistry; Amadis Chemical; Ambinter; AppChem; Aribo Reagent; AstaTech, Inc.; BOC Sciences; BenchChem; BioChemPartner; Biosynth; CAPOT; CATO Research Chemicals Inc.; Chem-Space.com Database; ChemFaces; Clearsynth; Clinivex; Cooke Chemical Co., Ltd; CymitQuimica; DC Chemicals; Debye Scientific Co., Ltd; Enamine; Finetech Industry Limited; Glentham Life Sciences Ltd.; Hairui Chemical; Hangzhou APIChem Technology; Innovapharm; InvivoChem; J&H Chemical Co.,ltd; Key Organics/BIONET; LGC Standards; LKT Labs; Life Chemicals; Matrix Scientific; Mcule; MedChemexpress MCE; Midas Pharma GmbH; Molport; MuseChem; Oakwood Products; RR Scientific; Santa Cruz Biotechnology, Inc.; Selleck Chemicals; Sigma-Aldrich; Sinfoo Biotech; Smolecule; Starshine Chemical; SynHet - Synthetic Heterocycles; TCI (Tokyo Chemical Industry); THE BioTek; TargetMol; Thermo Fisher Scientific; TimTec; Veeprho; Vitas-M Laboratory; VladaChem; Win-Win Chemical; Yuhao Chemical; abcr GmbH; eMolecules","[
+  {
+    ""PDB_ID"": ""8J3W"",
+    ""MMDB_ID"": 230639,
+    ""Description"": ""Cryo-EM structure of aspirin-bound ABCC4"",
+    ""Taxonomy_Name"": ""Homo sapiens"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=230639""
+  },
+  {
+    ""PDB_ID"": ""6MQF"",
+    ""MMDB_ID"": 173465,
+    ""Description"": ""Myotoxin II from Bothrops moojeni complexed with Acetylsalicylic acid"",
+    ""Taxonomy_Name"": ""Bothrops moojeni"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=173465""
+  },
+  {
+    ""PDB_ID"": ""4NSB"",
+    ""MMDB_ID"": 115960,
+    ""Description"": ""Crystal structure of the complex of signaling glycoprotein, SPB-40 and N-acetyl salicylic acid at 3.05 A resolution"",
+    ""Taxonomy_Name"": ""Bubalus bubalis"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=115960""
+  },
+  {
+    ""PDB_ID"": ""3IAZ"",
+    ""MMDB_ID"": 75951,
+    ""Description"": ""Structural basis of the prevention of NSAID-induced damage of the gastrointestinal tract by C-terminal half (C-lobe) of bovine colostrum protein lactoferrin: Binding and structural studies of the C-lobe complex with aspirin"",
+    ""Taxonomy_Name"": ""Bos taurus"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=75951""
+  },
+  {
+    ""PDB_ID"": ""3GCL"",
+    ""MMDB_ID"": 70578,
+    ""Description"": ""Mode of ligand binding and assignment of subsites in mammalian peroxidases: crystal structure of lactoperoxidase complexes with acetyl salycylic acid, salicylhydroxamic acid and benzylhydroxamic acid"",
+    ""Taxonomy_Name"": ""Bos taurus"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=70578""
+  },
+  {
+    ""PDB_ID"": ""2QQT"",
+    ""MMDB_ID"": 54234,
+    ""Description"": ""Crystal structure of the complex of bovine lactoperoxidase with acetyl salicylic acid at 2.5 A resolution"",
+    ""Taxonomy_Name"": ""Bos taurus"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=54234""
+  },
+  {
+    ""PDB_ID"": ""1TGM"",
+    ""MMDB_ID"": 27954,
+    ""Description"": ""Crystal structure of a complex formed between group II phospholipase A2 and aspirin at 1.86 A resolution"",
+    ""Taxonomy_Name"": ""Daboia russelii russelii"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=27954""
+  },
+  {
+    ""PDB_ID"": ""1OXR"",
+    ""MMDB_ID"": 27242,
+    ""Description"": ""Aspirin induces its Anti-inflammatory effects through its specific binding to Phospholipase A2: Crystal structure of the complex formed between Phospholipase A2 and Aspirin at 1.9A resolution"",
+    ""Taxonomy_Name"": ""Naja sagittifera"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?uid=27242""
+  }
+]","[
+  {
+    ""AID"": ""1"",
+    ""SID"": ""87798"",
+    ""Activity Outcome"": ""Inactive"",
+    ""Assay Type"": ""Confirmatory"",
+    ""Activity Value [uM]"": """",
+    ""Assay Name"": ""NCI human tumor cell line growth inhibition assay. Data for the NCI-H23 Non-Small Cell Lung cell line""
+  },
+  {
+    ""AID"": ""3"",
+    ""SID"": ""87798"",
+    ""Activity Outcome"": ""Inactive"",
+    ""Assay Type"": ""Confirmatory"",
+    ""Activity Value [uM]"": """",
+    ""Assay Name"": ""NCI human tumor cell line growth inhibition assay. Data for the NCI-H226 Non-Small Cell Lung cell line""
+  },
+  {
+    ""AID"": ""9"",
+    ""SID"": ""87798"",
+    ""Activity Outcome"": ""Inactive"",
+    ""Assay Type"": ""Confirmatory"",
+    ""Activity Value [uM]"": """",
+    ""Assay Name"": ""NCI human tumor cell line growth inhibition assay. Data for the HOP-62 Non-Small Cell Lung cell line""
+  },
+  {
+    ""AID"": ""15"",
+    ""SID"": ""87798"",
+    ""Activity Outcome"": ""Inactive"",
+    ""Assay Type"": ""Confirmatory"",
+    ""Activity Value [uM]"": """",
+    ""Assay Name"": ""NCI human tumor cell line growth inhibition assay. Data for the NCI-H522 Non-Small Cell Lung cell line""
+  },
+  {
+    ""AID"": ""19"",
+    ""SID"": ""87798"",
+    ""Activity Outcome"": ""Inactive"",
+    ""Assay Type"": ""Confirmatory"",
+    ""Activity Value [uM]"": """",
+    ""Assay Name"": ""NCI human tumor cell line growth inhibition assay. Data for the A549/ATCC Non-Small Cell Lung cell line""
+  },
+  {
+    ""AID"": ""21"",
+    ""SID"": ""87798"",
+    ""Activity Outcome"": ""Inactive"",
+    ""Assay Type"": ""Confirmatory"",
+    ""Activity Value [uM]"": """",
+    ""Assay Name"": ""NCI human tumor cell line growth inhibition assay. Data for the EKVX Non-Small Cell Lung cell line""
+  },
+  {
+    ""AID"": ""23"",
+    ""SID"": ""87798"",
+    ""Activity Outcome"": ""Inactive"",
+    ""Assay Type"": ""Confirmatory"",
+    ""Activity Value [uM]"": """",
+    ""Assay Name"": ""NCI human tumor cell line growth inhibition assay. Data for the LOX IMVI Melanoma cell line""
+  },
+  {
+    ""AID"": ""25"",
+    ""SID"": ""87798"",
+    ""Activity Outcome"": ""Inactive"",
+    ""Assay Type"": ""Confirmatory"",
+    ""Activity Value [uM]"": """",
+    ""Assay Name"": ""NCI human tumor cell line growth inhibition assay. Data for the M14 Melanoma cell line""
+  }
+]","[
+  {
+    ""Patent"": ""US5972916"",
+    ""URL"": ""https://pubchem.ncbi.nlm.nih.gov/patent/US5972916""
+  },
+  {
+    ""Patent"": ""US6015577"",
+    ""URL"": ""https://pubchem.ncbi.nlm.nih.gov/patent/US6015577""
+  },
+  {
+    ""Patent"": ""US6926907"",
+    ""URL"": ""https://pubchem.ncbi.nlm.nih.gov/patent/US6926907""
+  },
+  {
+    ""Patent"": ""US9101637"",
+    ""URL"": ""https://pubchem.ncbi.nlm.nih.gov/patent/US9101637""
+  },
+  {
+    ""Patent"": ""US9226892"",
+    ""URL"": ""https://pubchem.ncbi.nlm.nih.gov/patent/US9226892""
+  },
+  {
+    ""Patent"": ""US8865187"",
+    ""URL"": ""https://pubchem.ncbi.nlm.nih.gov/patent/US8865187""
+  },
+  {
+    ""Patent"": ""US9216150"",
+    ""URL"": ""https://pubchem.ncbi.nlm.nih.gov/patent/US9216150""
+  },
+  {
+    ""Patent"": ""US9351984"",
+    ""URL"": ""https://pubchem.ncbi.nlm.nih.gov/patent/US9351984""
+  },
+  {
+    ""Patent"": ""US9539214"",
+    ""URL"": ""https://pubchem.ncbi.nlm.nih.gov/patent/US9539214""
+  },
+  {
+    ""Patent"": ""US9364439"",
+    ""URL"": ""https://pubchem.ncbi.nlm.nih.gov/patent/US9364439""
+  },
+  {
+    ""Patent"": ""US8206741"",
+    ""URL"": ""https://pubchem.ncbi.nlm.nih.gov/patent/US8206741""
+  },
+  {
+    ""Patent"": ""US9987231"",
+    ""URL"": ""https://pubchem.ncbi.nlm.nih.gov/patent/US9987231""
+  },
+  {
+    ""Patent"": ""US10786444"",
+    ""URL"": ""https://pubchem.ncbi.nlm.nih.gov/patent/US10786444""
+  },
+  {
+    ""Patent"": ""US10646431"",
+    ""URL"": ""https://pubchem.ncbi.nlm.nih.gov/patent/US10646431""
+  }
+]",[],"[
+  {
+    ""AllURL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""administration and dosage"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fadministration+and+dosage%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""adverse effects"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fadverse+effects%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""agonists"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fagonists%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""analogs and derivatives"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fanalogs+and+derivatives%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""analysis"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fanalysis%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""antagonists and inhibitors"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fantagonists+and+inhibitors%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""blood"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fblood%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""cerebrospinal fluid"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fcerebrospinal+fluid%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""chemical synthesis"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fchemical+synthesis%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""chemistry"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fchemistry%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""classification"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fclassification%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""economics"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2feconomics%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""history"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fhistory%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""immunology"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fimmunology%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""isolation and purification"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fisolation+and+purification%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""metabolism"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fmetabolism%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""pharmacokinetics"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fpharmacokinetics%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""pharmacology"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fpharmacology%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""physiology"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fphysiology%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""poisoning"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fpoisoning%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""radiation effects"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fradiation+effects%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""standards"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fstandards%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""supply and distribution"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2fsupply+and+distribution%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""therapeutic use"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2ftherapeutic+use%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""therapy"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2ftherapy%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""toxicity"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2ftoxicity%22[Mesh%20Terms%3anoexp]""
+  },
+  {
+    ""Heading"": ""urine"",
+    ""URL"": ""https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed&term=%22Aspirin%2furine%22[Mesh%20Terms%3anoexp]""
+  }
+]"

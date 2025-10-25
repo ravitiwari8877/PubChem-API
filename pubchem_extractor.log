@@ -1,0 +1,58 @@
+2025-06-26 10:56:21,696 - INFO - Compound found: CID 2244
+2025-06-26 10:56:22,581 - INFO - Compound details extracted successfully
+2025-06-26 10:56:22,586 - INFO - Converted details to DataFrame
+2025-06-26 10:56:22,599 - INFO - Data saved to compound_details.csv
+2025-06-27 10:45:57,698 - INFO - Compound found: CID 2244
+2025-06-27 10:45:58,576 - INFO - Compound details extracted
+2025-06-27 10:45:58,595 - INFO - Saved to compound_details.csv
+2025-06-27 11:03:11,356 - INFO - Fetched compound CID: 2244 for 'Aspirin'
+2025-06-27 11:03:11,358 - ERROR - Error extracting compound details: 'PubChemCompoundData' object has no attribute 'query'
+2025-06-27 11:03:11,358 - ERROR - Failed to process 'Aspirin': 'PubChemCompoundData' object has no attribute 'query'
+2025-06-27 11:03:12,193 - INFO - Fetched compound CID: 1983 for 'Paracetamol'
+2025-06-27 11:03:12,193 - ERROR - Error extracting compound details: 'PubChemCompoundData' object has no attribute 'query'
+2025-06-27 11:03:12,194 - ERROR - Failed to process 'Paracetamol': 'PubChemCompoundData' object has no attribute 'query'
+2025-06-27 11:03:13,024 - INFO - Fetched compound CID: 3672 for 'Ibuprofen'
+2025-06-27 11:03:13,024 - ERROR - Error extracting compound details: 'PubChemCompoundData' object has no attribute 'query'
+2025-06-27 11:03:13,024 - ERROR - Failed to process 'Ibuprofen': 'PubChemCompoundData' object has no attribute 'query'
+2025-06-27 11:07:43,789 - INFO - Fetched compound CID: 2244 for 'Aspirin'
+2025-06-27 11:07:44,664 - INFO - Compound details extracted
+2025-06-27 11:07:57,242 - ERROR - [Aspirin] Error fetching REST data: sequence item 0: expected str instance, int found
+2025-06-27 11:10:20,703 - INFO - Fetched compound CID: 2244 for 'Aspirin'
+2025-06-27 11:10:21,586 - INFO - Compound details extracted
+2025-06-27 11:10:34,143 - ERROR - [Aspirin] Error fetching REST data: sequence item 0: expected str instance, int found
+2025-06-27 11:12:49,632 - INFO - Fetched compound CID: 2244 for 'Aspirin'
+2025-06-27 11:12:50,514 - INFO - Compound details extracted
+2025-06-27 11:13:03,089 - ERROR - [Aspirin] Error fetching REST data: sequence item 0: expected str instance, int found
+2025-06-27 11:16:04,624 - INFO - Fetched compound CID: 2244 for 'Aspirin'
+2025-06-27 11:16:05,499 - INFO - Compound details extracted
+2025-06-27 11:16:18,098 - ERROR - [Aspirin] Error fetching REST data: sequence item 0: expected str instance, int found
+2025-06-27 11:17:18,999 - INFO - Fetched compound CID: 2244 for 'Aspirin'
+2025-06-27 11:17:19,878 - INFO - Compound details extracted
+2025-06-27 11:17:32,541 - ERROR - [Aspirin] Error fetching REST data: sequence item 0: expected str instance, int found
+2025-06-27 12:52:59,505 - INFO - Compound found: CID 2244
+2025-06-27 12:53:03,103 - INFO - Compound details extracted
+2025-06-27 12:53:03,121 - INFO - Saved to compound_details.csv
+2025-06-27 12:58:30,386 - INFO - Compound found: CID 2244
+2025-06-27 12:58:33,105 - INFO - Compound details extracted
+2025-06-27 12:58:33,122 - INFO - Saved to compound_details.csv
+2025-06-27 12:59:52,009 - INFO - Compound found: CID 2244
+2025-06-27 12:59:54,677 - INFO - Compound details extracted
+2025-06-27 12:59:54,696 - INFO - Saved to compound_details.csv
+2025-06-27 13:01:52,272 - INFO - Compound found: CID 2244
+2025-06-27 13:01:54,922 - INFO - Compound details extracted
+2025-06-27 13:01:54,940 - INFO - Saved to compound_details.csv
+2025-06-27 13:04:27,941 - INFO - Compound found: CID 2244
+2025-06-27 13:04:31,623 - INFO - Compound details extracted
+2025-06-27 13:04:31,641 - INFO - Saved to compound_details.csv
+2025-06-27 13:21:07,536 - INFO - Compound found: CID 2244
+2025-06-27 13:21:08,416 - INFO - Compound details extracted
+2025-06-27 13:21:08,434 - INFO - Saved to compound_details.csv
+2025-07-02 14:41:03,062 - INFO - Compound found: CID 2244
+2025-07-02 14:45:49,252 - INFO - Compound found: CID 2244
+2025-07-02 15:35:07,061 - INFO - Compound found: CID 134611040
+2025-07-03 15:03:12,237 - INFO - Compound found: CID 134611040
+2025-07-03 15:53:46,714 - INFO - Compound found: CID 134611040
+2025-07-04 12:06:26,550 - INFO - Compound found: CID 134611040
+2025-07-04 12:16:50,134 - INFO - Compound found: CID 134611040
+2025-07-04 12:53:45,399 - INFO - Compound found: CID 134611040
+2025-07-04 12:55:48,012 - INFO - Compound found: CID 2244
